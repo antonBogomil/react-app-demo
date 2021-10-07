@@ -1,0 +1,17 @@
+.root {
+    width: 50%;
+    background: dodgerblue;
+    color: #fff;
+    border: #fff;
+    top: 0;
+    left: 0;
+    outline: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.root:hover {
+    background: greenyellow;
+}
